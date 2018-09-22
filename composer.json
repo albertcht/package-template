@@ -10,6 +10,7 @@
     "require-dev": {
         "codedungeon/phpunit-result-printer": "^0.6.0",
         "mockery/mockery": "^0.9.4",
+        "php-mock/php-mock": "^2.0",
         "phpunit/phpunit": "^7.0"
     },
     "license": "MIT",
